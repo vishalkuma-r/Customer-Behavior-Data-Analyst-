@@ -1,5 +1,5 @@
 # Customer-Behavior-Data-Analyst-
-Complete Data Analytics Portfolio Project with end-to-end industry standard Data Analysis of Customer Shopping Trends from Retail Data using SQL, Python and Power BI.
+This project is a complete, industry-standard end-to-end data analytics solution designed to analyze customer shopping behavior across retail stores. I executed the full workflow starting from raw data ingestion, data cleaning, and transformation using SQL and Python, followed by exploratory and statistical analysis, customer segmentation (RFM), and performance analytics. The cleaned, processed outputs were integrated into an interactive Power BI dashboard to provide actionable insights for business decision-making.
 📌 Project Overview
 The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
 
